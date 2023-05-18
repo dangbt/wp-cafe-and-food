@@ -1,0 +1,16 @@
+[18/May/2023:02:44:08] (I): WordPress Instance Info:
+[18/May/2023:02:44:08] (I): Home URL : http://localhost:3000
+[18/May/2023:02:44:08] (I): Site URL : http://localhost:3000
+[18/May/2023:02:44:08] (I): WordPress Version : 6.2.1
+[18/May/2023:02:44:08] (I): Onboarding Version : 1.1.38
+[18/May/2023:02:44:08] (I): Multisite : No
+[18/May/2023:02:44:08] (I): Server Info : PHP 8.2.6 Development Server
+[18/May/2023:02:44:08] (I): PHP Version : 8.2.6
+[18/May/2023:02:44:08] (I): HTTPS : No
+[18/May/2023:02:44:08] (I): PHP Max Execution Time : 30
+[18/May/2023:02:44:08] (I): PHP Max Input Vars : 1000
+[18/May/2023:02:44:08] (I): Max Upload Size : 2097152
+[18/May/2023:02:44:08] (I): Plugins:
+[18/May/2023:02:44:08] (I): [PLUGIN] Copy &amp; Delete Posts : v1.3.9 (Copy Delete Posts)
+[18/May/2023:02:44:08] (I): [PLUGIN] Templates Patterns Collection : v1.1.38 (ThemeIsle)
+[18/May/2023:02:44:08] (I): [PLUGIN] Food Menu - Restaurant Menu &amp; Online Ordering for WooCommerce : v5.0.5 (RadiusTheme)
